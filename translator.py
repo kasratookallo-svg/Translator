@@ -44,4 +44,7 @@ kheili very très sehr
 alaghemand interested intéressé interessiert 
 barnamenevisi programming laprogrammation Programmierung
 I am very interested in programming
+
+Output:
+Man hasta kheili alaghemand be barnamenevisi
 """
