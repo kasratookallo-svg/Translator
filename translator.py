@@ -1,3 +1,7 @@
+# This practical program is organised by <<Kasra Tookallo>>
+#---------------------------------------------------------------------------------------------
+
+
 def main():
     # Read number of dictionary entries
     n = int(input().strip())
@@ -36,15 +40,20 @@ if __name__ == "__main__":
 
 """ 
 'Copy and paste' the following example in Entry:
-6
+10
+razi content none zufrieden
+az with none mit
+zendegi life none Leben
+in the none das
 be in none auf
 man I je ich
 hastam am none bin
 kheili very très sehr
 alaghemand interested intéressé interessiert 
 barnamenevisi programming laprogrammation Programmierung
-I am very interested in programming
+I am interested in the life
+
 
 Output:
-Man hasta kheili alaghemand be barnamenevisi
+Man hastam kheili alaghemand be barnamenevisi
 """
