@@ -51,9 +51,9 @@ hastam am none bin
 kheili very très sehr
 alaghemand interested intéressé interessiert 
 barnamenevisi programming laprogrammation Programmierung
-I am interested in the life
+I am interested in programming
 
 
 Output:
-Man hastam kheili alaghemand be barnamenevisi
+man hastam alaghemand be barnamenevisi
 """
